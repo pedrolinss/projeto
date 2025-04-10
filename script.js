@@ -7,12 +7,12 @@ function toggleMode() {
 
   if (html.classList.contains("light")) {
     // se tiver light mode, adicionar a imagem light
-    img.setAttribute("src", "./assets/avatar-light.png")
-    img.setAttribute("alt", "Foto do Mayk Brito da Rocketseat de óculos escuro")
+    img.setAttribute("src", "./assets/pfp-light.jpg")
+    img.setAttribute("alt", "Foto de Pedro Lins de óculos escuro")
   } else {
     // se tiver sem light, manter imagem normal
-    img.setAttribute("src", "./assets/avatar.png")
-    img.setAttribute("alt", "Foto do Mayk Brito da Rocketseat")
+    img.setAttribute("src", "./assets/pfp.jpg")
+    img.setAttribute("alt", "Foto de Pedro Lins")
   }
 
   // pegar tag img
