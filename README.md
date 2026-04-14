@@ -10,8 +10,8 @@ Interações básicas com JavaScript
 HTML
 CSS
 JavaScript
-📚 Objetivo
 
+📚 Objetivo
 Este projeto foi desenvolvido para fins de aprendizado, com foco em prática de estruturação de páginas web e manipulação básica com JavaScript.
 
 🔗 Autor
