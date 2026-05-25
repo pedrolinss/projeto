@@ -6,6 +6,7 @@ Este é um projeto simples desenvolvido com HTML, CSS e JavaScript com o objetiv
 Página web estática
 Estilização com CSS
 Interações básicas com JavaScript
+
 🛠️ Tecnologias utilizadas
 HTML
 CSS
